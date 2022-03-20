@@ -9,6 +9,8 @@ Players connect to the server, create a room or join an already opened room, can
 ![image](https://user-images.githubusercontent.com/81033171/159159949-b6b732cf-bcbd-4a0d-b62f-6f72770e5827.png)
 Figure 1: Compiling and Starting the Server
 
+
+
 After the server has started players (clients) can connect with:
 
 	telnet 127.0.0.1 8888
@@ -17,9 +19,8 @@ After the server has started players (clients) can connect with:
 Figure 2: Entering the Server
 
 
+
 After the players connect to the server, they use some commands to create and join the rooms. But there are more commands and to see it type:
 
 	/help
- 
- 
  
