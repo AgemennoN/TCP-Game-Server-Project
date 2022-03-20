@@ -17,9 +17,9 @@ After the server has started players (clients) can connect with:
 Figure 2: Entering the Server
 
 
-After the players connect to the server, they use some commands to create and join the rooms. But there are more commands and to see it type 
+After the players connect to the server, they use some commands to create and join the rooms. But there are more commands and to see it type:
 
-	/help.
+	/help
  
  
  
